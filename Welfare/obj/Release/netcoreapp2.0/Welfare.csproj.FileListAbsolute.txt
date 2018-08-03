@@ -1,0 +1,11 @@
+E:\.NetCore GetHttp\Welfare\Welfare\bin\Release\netcoreapp2.0\Welfare.deps.json
+E:\.NetCore GetHttp\Welfare\Welfare\bin\Release\netcoreapp2.0\Welfare.runtimeconfig.json
+E:\.NetCore GetHttp\Welfare\Welfare\bin\Release\netcoreapp2.0\Welfare.runtimeconfig.dev.json
+E:\.NetCore GetHttp\Welfare\Welfare\bin\Release\netcoreapp2.0\Welfare.dll
+E:\.NetCore GetHttp\Welfare\Welfare\bin\Release\netcoreapp2.0\Welfare.pdb
+E:\.NetCore GetHttp\Welfare\Welfare\obj\Release\netcoreapp2.0\Welfare.csproj.CoreCompileInputs.cache
+E:\.NetCore GetHttp\Welfare\Welfare\obj\Release\netcoreapp2.0\Welfare.AssemblyInfoInputs.cache
+E:\.NetCore GetHttp\Welfare\Welfare\obj\Release\netcoreapp2.0\Welfare.AssemblyInfo.cs
+E:\.NetCore GetHttp\Welfare\Welfare\obj\Release\netcoreapp2.0\Welfare.dll
+E:\.NetCore GetHttp\Welfare\Welfare\obj\Release\netcoreapp2.0\Welfare.pdb
+E:\.NetCore GetHttp\Welfare\Welfare\obj\Release\netcoreapp2.0\Welfare.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+E:\.NetCore GetHttp\Welfare\Welfare
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Welfare
+--content-root=E:\.NetCore GetHttp\Welfare\Welfare
+--file=E:\.NetCore GetHttp\Welfare\Welfare\Views\Home\About.cshtml
+--file=E:\.NetCore GetHttp\Welfare\Welfare\Views\Home\Contact.cshtml
+--file=E:\.NetCore GetHttp\Welfare\Welfare\Views\Home\Index.cshtml
+--file=E:\.NetCore GetHttp\Welfare\Welfare\Views\Shared\Error.cshtml
+--file=E:\.NetCore GetHttp\Welfare\Welfare\Views\Shared\_Layout.cshtml
+--file=E:\.NetCore GetHttp\Welfare\Welfare\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\.NetCore GetHttp\Welfare\Welfare\Views\_ViewImports.cshtml
+--file=E:\.NetCore GetHttp\Welfare\Welfare\Views\_ViewStart.cshtml
